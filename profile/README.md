@@ -25,3 +25,6 @@ To visualize and interact with meshes, we use the Graphite modeler. Most tools a
 
  - Plugins must be placed and compiled with the Graphite's source code 
  - Add-ons are external programs - with a particular protocol - that can be run from Graphite.
+
+ - [graphite plugins from texel](https://github.com/ultimaille/graphite-texel-plugins) - A plugin suite for Graphite
+ - [graphite add-on loader](https://github.com/ultimaille/graphite-addon-loader) - A module that enables to load add-ons from Graphite
