@@ -18,3 +18,10 @@ ultimaille is an organization that focuses on the development of the ultimaille 
  - [ultimaille](https://github.com/ultimaille/ultimaille) - the software library for mesh processing
  - [ultimaille hello](https://github.com/ultimaille/ultimaille-hello) - hello world using ultimaille library
  - [ultimaile examples](https://github.com/ultimaille/ultimaille-examples) - a series of examples to help you understand how to use ultimaille
+
+## Mesh interaction and visualization
+
+To visualize and interact with meshes, we use the Graphite modeler. Most tools are available as plug-ins or add-ons:
+
+ - Plugins must be placed and compiled with the Graphite's source code 
+ - Add-ons are external programs - with a particular protocol - that can be run from Graphite.
