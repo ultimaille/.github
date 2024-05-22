@@ -17,3 +17,4 @@ ultimaille is an organization that focuses on the development of the ultimaille 
 
  - [ultimaille](https://github.com/ultimaille/ultimaille) - the software library for mesh processing
  - [ultimaille hello](https://github.com/ultimaille/ultimaille-hello) - hello world using ultimaille library
+ - [ultimaile examples](https://github.com/ultimaille/ultimaille-examples) - a series of examples to help you understand how to use ultimaille
