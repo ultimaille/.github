@@ -32,3 +32,7 @@ To visualize and interact with meshes, we use the Graphite modeler. Most tools a
  - [graphite add-ons loader](https://github.com/ultimaille/graphite-addon-loader) - A module that enables to load add-ons from Graphite
  - [graphite add-ons examples](https://github.com/ultimaille/graphite-addon-examples) - A suite of add-ons that can be used from Graphite (once add-on loader was installed)
  - [param parser](https://github.com/ultimaille/param-parser) - A library to use when you want to create your own Graphite add-on
+
+## Internships
+
+[Internships projects](Internships.md)
