@@ -1,6 +1,11 @@
 # Internships
 
-Here you can find some projects realized by our internship students:
+Here you can find some projects - list isn't exhaustive - realized by our internship students:
+
+## 2026
+
+ - [SmoothPolylineDistanceFunction](https://github.com/ultimaille/SmoothPolylineDistanceFunction) - [vmaxime03](https://github.com/vmaxime03)
+ - [cotriangulation](https://github.com/ultimaille/cotriangulation) - [CarryUrself](https://github.com/CarryUrself)
 
 ## 2025
  - [Tache-Quad-Mesh](https://github.com/ultimaille/stage-quadmesh) - [pwang94](https://github.com/pwang94)
